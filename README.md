@@ -1,4 +1,4 @@
-# zukkon-bakkon
+# zukko
 
 > My fantastic Nuxt.js project
 
